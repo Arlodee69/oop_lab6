@@ -1,0 +1,5 @@
+/home/anton/code/homework_ooplab6/build/CMakeFiles/NPC_Battle_Game.dir
+/home/anton/code/homework_ooplab6/build/CMakeFiles/tests.dir
+/home/anton/code/homework_ooplab6/build/CMakeFiles/test.dir
+/home/anton/code/homework_ooplab6/build/CMakeFiles/edit_cache.dir
+/home/anton/code/homework_ooplab6/build/CMakeFiles/rebuild_cache.dir
